@@ -1,0 +1,388 @@
+---
+title: 'Reasons to Fight: A Look at Individual and Country-Level Influences on Military
+  Participation'
+author: "Sam Kane"
+date: "11/15/2018"
+output:
+  word_document: default
+  html_document: default
+---
+#Introduction
+Systems of national defense are a key component of any government, and maintaining this infrastructure requires motivating or conscripting the civilian population to fill the necessary armed forces. The military as an institution is not only an essential feature for curtailing the perils of geopolitical plight but also a resource for national relief efforts and protections in the face of apolitical adversity (for instance, in the case of natural disasters). In authoritarian regimes, a strong hold on the military (and, usually, membership in the military) renders stability for the autocrat; lack thereof makes them more susceptible to coups. Clearly, the relationship between a government and the national armed forces varies by country based on a multitude of interconnected factors including, but not limited to, the regime type, the country’s history, the national economy, and geopolitics. As a result of these differences, the benefits a state can offer military officers also vary significantly across the globe, affecting military participation rates, or how many people decide to enlist. Taking into account the complexity of military-political structures, how do states indirectly promote military participation? Furthermore, from an individualistic, civilian perspective, what motivates one to enlist?
+
+Investigating individuals’ willingness to fight for their country gives rise to important information in several regards. This research can help elucidate modern military trends. The twenty-first century has seen a decrease in battlefield deaths and a changing nature of warfare, with states relying more heavily on technologies that allow to distance combatants from the battlefield and thus reduce human deployment rates. With fewer and less gruesome wars (relative to historical measures), people might predicate their military participation choices on different factors than before. Understanding how patriotism plays a role in these decisions, as well as recognizing other motivators, can inform how states maintain their armed forces or what governments should focus on if they seek to expand their defense system.
+
+Having information on which factors actually matter or are most pertinent in movitating state-defending attitudes and behaviors is important but comes with ethical considerations. My main concern with making this information accessible is that regimes could use it for more targeted recruitment practices, capitalizing on demographic or attitudinal differences that can make vulnerable populations even more likely to concede and join the armed forces. However, in a more positive light, states could also utilize country-level results to improve their social and economic practices and, in that manner, aim to improve attitudes toward joining the military.
+
+
+##Existing Literature
+A significant portion of the existing literature on military participation focuses on the United States and some Western democracies. As well, existing research mainly looks at national trends and political characteristics rather than individual motivations beyond occupational choices and cognitive effects of patriotism. My research aims to build on both of these levels of analysis in a more global sense and bridge them together in order to have a better understanding of the circumstances that invite individuals in different countries (and types of countries) to join their armed forces.
+   
+###Patriotism and Altruism
+One of the most intuitive predictors for civilian’s willingness to join the military is a sense of nationalism. Individuals form bonds of respect and loyalty for important personal identity groups; when they share a certain identity with numerous other people, they develop a sense of imagined community that becomes salient (Anderson, 2006). This primordial approach taps into ingroup psychology theories, which concur that a sense of nationalism is cognitively natural (Stern, 1995). In addition, an instrumentalist approach to nationalism explains that this sentiment of community is predicated on shared interests: group cohesion helps make working toward common goals easier. Even though communities might subconsciously construct that sense of camaraderie, it binds people to protect shared interests in times of crisis, when the feeling of nationalism operates more consciously. When the state is at the root of this imagined community, it becomes particularly salient because of an overwhelming, densely geographically concentrated number of people who share the group membership (Anderson). This strength in numbers can bring this sense of national belonging to the fore, superseding national identity over affiliations with other groups such as the family (Stern). In this manner, nationalism “preempts” other identities and “egoistic rational calculation,” meaning the individual focuses on social influences rather than personal motives when surrounded by social primers (232). Cognitively, they minimize otherwise apparent personal consequences of enlisting because of their primed nationalistic bias, making the choice to enlist seem simple.
+
+One of the most outstanding personal consequences includes death in combat (Mann). But, there is still little research that assesses which personal consequences to enlisting are most heavily considered and on how certain identities affect the effects of nationalism and to what degree. I will investigate this quandary by looking into life satisfaction rates, seeing as happier people tend to be more altruistic, which in turn could help make already nationalistic individuals more prone to enlisting (Post, 2005).
+
+Some scholars point to altruism as a factor that explains military participation; yet, Stern argues that mere altruism would serve no purpose unless it were paired with nationalism. Appeals to nationalism work to herd people into the military because of their moralistic and emotional imperatives on social-self cognition. Governments often try to evoke emotional responses to war efforts, aiming for them to take effect like the rally around the flag syndrome. Particularly, governments will appeal to losses to stimulate risk-seeking behaviors, which are more likely to surge when people feel threatened, to see a rise in military participation. Priming this nationalistic mentality can reduce one’s self-consciousness and egoism and spike altruism in a way that benefits military support and recruitment numbers. Thus, altruism alone does not suffice as an explanation: national identity must be salient for altruistic appeals motivate participation (Stern).
+
+
+###Economic Opportunities
+Economic factors largely influence decision-making regarding military participation. Particularly in the United States, individuals tend to conduct a cross-benefit analysis of their options, usually directly after graduating from high school (Mann, 2012; Rostker, et. al, 2014). Graduates face choosing between a civilian route –either engaging in the private sector or continuing their education– and the military route (Rostker, et. al). Scholars often point to this occupational choice economic model in assessing military participation attitudes and decisions, which in turn illuminates a widely-explored indicator in the willingness to join: economic prospects influence decision-making, disproportionately affecting individuals from lower economic strata (Mann, 2012; Rostker, et. al, 2014; MacLean & Parsons, 2006).
+
+Many individuals who choose to enlist are not necessarily choosing between the three aforementioned options (college, private sector work, or the military); often, the choice is merely between working and enlisting (MacLean & Parsons). College may not be an economically feasible option. For that reason, those with less education and in lower economic standing are more likely to enlist. In addition, people who enlist (in the US) are more likely to be black and less likely to have grown up with both biological parents or have had an intact family by age 14 (Rostker, et. al). Their parents on average have a third of a year less of education than civilians’ parents, and the enlistees themselves have on average one fewer year of education than their civilian counterparts. And, once in the military, members of lower economic strata are more prone to on-the-ground deployments. It logically follows that those who enlist are also less likely to attend college (Mann, 2012; Rostker, et. al, 2014; MacLean & Parsons, 2006).
+
+For those who will not (or cannot) attend college, the military choice offers clear-cut procedures, routine, and long-term stability, while the private sector leaves a lot of room for uncertainty (Rostker, et. al). Thus, risk-averse individuals who are not going to college are far more likely to opt into the military. Traditionally, the occupational choice economic model assesses a singular choice period – the time surrounding high school graduation. Yet, Rostker, et. al recognize that there are subsequent choice periods in which people who originally opted not to enlist revisit the option to do so. If a candidate revisits the option in a later choice period, they are more likely to opt in because they have more information at their disposal and are more likely to be revisiting the option because of a dissatisfaction with the outcome of their original choice. Such discomfort in the private sector drives young adults into the military.
+
+Moreover, national economic trends also influence military participation choices. When the economy is in recession, recruitment expands; when the economy flourishes, recruitment dwindles (Mann). This inverted relationship makes sense given the influence of personal economic standing in this kind of decision-making. If people weigh their economic prospects while deciding to enlist, national economic down-spirals taint private sector prospects; meanwhile, if the military is seen as a generally stable institution, it can give recruits a sense of economic security that the private sector cannot offer (Rostker, et. al). Specifically, long term military benefits might have a hefty value worth weighing when doing the cross benefit analysis. Certainly, these benefits exist in many highly developed and industrialized states. What the literature fails to explore, however, is the weight of these benefits in developing countries, where the focus tends to shift from monetary benefits to power benefits.
+
+###Freedom
+The type of leadership in a state also has a large influence on military participation. Literature on military-based regimes demonstrates that there are distinct relations that emerge between civilians and the armed forces depending on the kind of military leadership in that state. Military arbitrator regimes, where the armed forces heavily influence politics but are not overtly a part of it, might offer military personnel some benefits of this power dynamic through connections and patronage pyramids (Lutterback, 2011). One way in which a military arbitrator regime emerges is through the establishment of a military strongman (usually via a coup) that stays in power long enough for him –and not the metonymic armed forces– to be central to the state’s leadership. Still, this type of regime maintains control over the military and can use it as it sees fit. Often times, powerful (and likely oppressive) leaders with influence over the military create dual systems in which the army stands alongside an ideological paramilitary organization that coerces public opinion and thought. For these reasons, military participation in arbitrator regimes might be contingent on the individual’s political leanings, ethnic identity, and connections to the system. At the same time, the positions may be coveted because of the power (and associated monetary) benefits that might emerge rather than a willingness to defend one’s homeland.
+
+On the other hand, Gates & Podder (2015) argue that a willingness to fight for one’s country also might be less important than one’s willingness to fight for an ideology, or what one might perceive as the legitimate state. Thus, militia participation may ensue, where individuals fight for a cause that might work against the regime. The case of the Islamic State perfectly encapsulates this phenomenon, with the organization receiving local, regional, and Western recruits. Their local recruits tend to hold stronger anti-Shiite attitudes and emphasize the sectarian conflict in the Levant. Meanwhile, foreign fighters are motivated largely by universal values and perspectives. In this sense, religion and ideology prompt people to join an ideological movement rather than their national army.
+
+###Conscription vs. Voluntarism
+A conscription-based army sets a higher threshold of considerations for a government when choosing whether to go to war (Horowitz & Levendusky, 2011). Wars also tend to be less popular when there is conscription in place because the element of choice in risking one’s life is eliminated entirely. Additionally, young people and relatives of conscription-aged men (and in some countries also women) naturally tend to oppose conscription policies far more than others, indicating a fear of fighting for one’s country, especially when not given a choice.
+
+Furthermore, tribal-based monarchies with military control tend to staff their military with ethnic allies or foreign mercenaries to ensure allegiance and prolong the leadership’s grasp on power (Lutterback). These armies might be effective when they support the regime; but, when there is massive dissent coupled with conscription for targeted groups, weak soldier-civilian relations emerge. Still, when conscription is more even-handed, it tends to improve the relations and could make individuals more willing to defend their country.
+
+Furthermore, tribal-based monarchies with military control tend to staff their military with ethnic allies or foreign mercenaries to ensure allegiance and to extend that group’s grasp in power (Lutterback). These armies might be effective when they support the leadership; but, when there is massive dissent coupled with conscription for targeted groups, weak soldier-civilian relations emerge. Still, when conscription is more even-handed, it tends to improve the relations and could make individuals more willing to defend their country.
+
+###Colonial Legacies & Power Dynamics
+Colonialism left too many legacies, including some affecting militarization of newly independent states because of tribal and ethnic conflicts colonizers instigated during the colonial period. The power dynamics that emerged in decolonized states typically benefited a specific racial or ethnic group while others fought for their own right to govern. Sadan (2013) focuses on the Burmese colonial experience, noting that the UK favored a specific ethnic group and militarized it – as did colonizers worldwide. After decolonization, more oppressed groups gained access to militarization, and upon obtaining weapons, invoked a sense of political and physical threat in the original, colonially-favored power. These original ethnic entities that reaped the benefits of British favoritism sought the same level of power after independence and attempted to maintain it by replicating the earlier, British-imposed oppressive tactics. Privileged groups under colonialism were also more likely to form “parallel civil-military infrastructures” that work as “alternative systems of local governance” (604). These suffering structures cause significant disarray in newly developing states. With this information in mind, fighting for the country might not necessarily mean fighting with the official military. Yet, as infighting among groups continues, there is a “flattening out of the demographic curve” for military participation, with more members of the leading group continuing their involvement as militia members (623). For this reason, if the dataset allowed, I would have coded the state leadership’s ethnicity (and race) and respondents’ particular demographics to compare the according overlap between the two and their relation to civilian state-defending impetus.
+
+
+##Research Aims
+Although the cited literature contributes a wealth of important knowledge, there is still much more to examine in the realm of military participation trends and motivations. Bearing these preexisting findings in mind, I seek to shift the focus of military participation motivation from just economic factors to also ecompass political and personal ones. Important aspects that are not yet in this body of literature include how citizens’ perceptions of state legitimacy affect enlistment rates as well as how colonial histories and ethnic fractionalizations shift who chooses to participate. In particular, I will draw comparisons across countries, assessing citizens’ life satisfaction levels, perceptions of corruption, state militarization tendencies, colonial history, and individual demographic and attitudinal factors. I seek to investigate what actually motivates people in different parts of the world to enlist by bringing these different, cross-level features under the same microscope and looking at individuals as products of their societies.
+
+
+#Datasets
+To compile individual and country-level data, this study relies on several databases. Primarily, the World Values Survey provides individual-level information and contains the dependent variable. Additionally, I retrieve country-level data from a series of sources discussed below.
+    
+##World Values Survey
+I use data from the sixth wave of the World Values Survey (WVS), collected between 2011 and 2014. WVS is a Swedish-based organization of researchers who conduct surveys that seek to elucidate the effects of changing values on social and political phenomena. The undertaking began in 1981, and with every subsequent wave of surveying, the topics in the questionnaire have shifted to cover a broader ground and eliminate questions that rendered no results. The sixth wave survey reaches almost 100 countries, with upwards of 400,000 face-to-face interviews conducted with the same questionnaire. The questionnaire is translated to and pre-tested in any language considered by 15% of the national population or more as their first language. These translations and tests ensure the collection of reliable data that can tell the same kind of story across national, ethnic, linguistic, and other boundaries.
+
+The minimum sample size for each country is of 1,200. Respondents must be 18 years of age or older and reside in a private household. The samples aim to represent adults from the country as a whole, not just in urban centers or from a specific ethnic, socioeconomic, gender, occupational or other group.
+
+##Corruption Perceptions Index
+Transparency International produces annual transparency reports for each country, and I utilize its Corruption Perceptions Index (CPI). This organization records perceptions because there is little empirical data on corruption and illegal activities, and survey respondents are more likely to give genuine answers if they are asked about their perceptions of others’ activities rather than about their own experiences bending or breaking the law. The CPI contains data on 176 countries, and Transparency International gathers these figures from independent governance and business-climate analsyis institutions in each state. (Corruption Perceptions Index 2017, 2018)
+
+##Armed Conflict Database
+Uppsala University and Peace Research Institute Oslo work together in producing peace and conflict research, including facts and figures about armed conflict across the world. I use their armed conflict data base, which has information gathered through the Dow Jones Factiva aggregator. They utilize intelligent indexing procedures to obtain data on the number of battlefield deaths, conflicts, and the like from cross-referenced news articles, relying always on at least one globally-recognized source and a few local news reports in addition to BBC monitoring indicators. As well, they add informaiton from non-governmental, local, and international organizations. (Uppsala Conflict Data Program & Peace Research Institute Oslo, 2017)
+    
+##Freedom in the World Report
+Freedom House’s “Freedom in the World” report provides insight on civil liberties and political rights in 195 countries and 14 territories. A team of analysists examine states through on-the-ground research, news reports, NGO and local organizations’ reports, academic reviews, and interviews with relevant professionals. They then assign scores based on 10 political rights indicators and 15 civil liberties indicators, and, based on said scores, deisgnate each state as free, partly free, or not free and attach an upwards or downwards trend arrow where applicable. (Aghekyan, et al., 2018)
+
+##World Bank Data
+The World Bank generates data for economic indicators from its national management units’ reports as well as from official state reports. I utilize its DataBank aggregator to retrieve information on specific economic indicators for approximately 170 countries. (DataBank, 2018)
+
+##Historical Country Backgrounds
+I look at 181 countries’ individual historical context through a simplified, generally nominal, lens, considering whether a state has conscription laws and whether it was colonized (and if so, when it became independent). I retrieve information from generalized Google searches.
+
+
+#Methods
+```{r, echo=FALSE, warning=FALSE}
+rm(list=ls(all=TRUE))
+
+setwd("~/Desktop/Research/Final Paper")
+
+library(knitr) #allows you to "knit" this Rmd file into a report
+library(foreign) #functions: read.spss
+library(descr) #functions: freq, crosstab
+library(vcd) #functions: mosaic
+library(ggplot2) #functions: ggplot
+library(car) #functions: scatterplot
+library(dplyr) #functions: left_join, group_by, summarise
+library(nnet) #functions: multinom
+library(MASS) #functions: polr, glm.nb
+library(margins) #Functions: margins
+library(AER) #Functions: coeftest
+library(effects) #Functions: allEffects, Effects
+library(carData)
+library(nlme) #Functions: lme & intervals
+library(lme4) #Functions: lmer
+library(ordinal) #Functions: clmm, clmm2
+library(gamlss.mx) #Functions: gamlssNP
+library(sjstats) #Functions: icc
+#library(xlsx) #allows you to read Excel files
+library(Matrix) #Necessary for sjstats
+
+source("oneway.test.means Source Code.R") #allows you to run ANOVA tests
+source("summarySE Source Code.R")
+
+reasons <- read.csv("reasons.csv", header = TRUE, sep = ",", nrows=77018)
+
+```
+##The Dependent Variable
+
+_Fight_ is a nominal dichotomous variable measuring whether respondents would be willing to fight for their country or not. Noting the limits of this outcome variable is important for further intepretation. Because the question that renders the variable asks only whether respondents would be willing to fight for their country, it leaves room for interpretation on behalf of the respondent. Individuals surveyed may interpret fighting for their country as a fight to change its current state or to maintain the status quo. As well, some respondents might consider only official channels (i.e., enlisting in the national military) while others may consider unofficial channels of fighting for their country (e.g., joining militia groups). This research would benefit from a broader array of questions about military participation attitudes and behaviors. But, while these additional data are unavailable, we proceed with caution with the indicator that is accessible, termed fight.
+
+##Countries Under Study
+This project looks at 57 countries on both analysis levels. As well, country-level information is available for a total of 181 countries, which provides additional, though not as detailed, insight at the state-level. I focus on these 57 countries, with Global North vs. Global South distribution patterns of the dependent variable as follows (Finance Center for South-South Cooperation, 2015). Generally, Global North residents are slightly more inclined to fight for their country than are their Global South counterparts.
+
+```{r, echo=FALSE, warning=FALSE}
+crosstab(reasons$globalns, reasons$fight, prop.r = TRUE, chisq = TRUE)
+```
+##The Independent Variables
+I look at two sets of indicators: at the individual level, they intend to represent demographic and attitudinal information that may shape the picture we currently have of why people choose to enlist; the purpose of the country level indicators is to assess whether there are global trends as well as individual ones for enlisting. I seek to examine whether countries cluster together based on a number of characteristics explained below.
+    
+###Individual-Level Predictors
+I run simple bivariate statistics for each of the nine individual-level variables relative to the DV to get a better gauge of their effects before engaging in more complex statistical tests.
+    
+####Demographics
+Below, I examine demographic information relative to _fight_ to see preliminarily if the outcomes generally align with existing literature on the subject. Nonetheless, I primarily use demographic information as control variables in this study.
+
+*AGE*
+
+_Age_ is a continuous variable that measures the respondent’s age. I find that those who would not fight for their country are, on average, slightly older than those who say they would fight for their country, which concurs with the literature regarding actual recruits (Rostker, et. al; MacLean & Parsons).
+
+```{r, echo=FALSE, warning=FALSE}
+t.test(reasons$age[reasons$fight == "No"], reasons$age[reasons$fight == "Yes"])
+```
+*SEX*
+
+_Sex_ is a dichotomous variable that records the respondent’s sex as either male or female. As expected, there is a higher proportion of males willing to fight than of females.
+
+```{r, echo=FALSE, warning=FALSE}
+crosstab(reasons$sex, reasons$fight, prop.r = TRUE, chisq = TRUE)
+```
+*INCOME*
+_Econhardship_ is an index that presents economic hardship based on three variables that measure the lack of certain provisions on a 4-point ordinal scale from “never” (coded 1) to “often” (coded 4):
+
+_food_ - how often the respondent or their family has gone without enough food to eat within the last year
+_lackmeds_ - how often they have lacked necessary medical treatment or supplies within the last year
+_nocash_ - how often they have gone without a cash income within the last year.
+
+Indexing these three economic hardship indicators is supported by a principal components analysis. Because _food_ and _lackmeds_ variables load onto _nocash_, creating an index of the three variables adds to the value of my broader investigation and analysis.
+
+I expect those experiencing more economic hardship to be more inclined to fight for their country, as the preexisting literature suggests, but the t-test results do not concur: those willing to fight face significantly less economic hardship than those who opt not to fight.
+
+```{r, echo=FALSE, warning=FALSE}
+t.test(reasons$econhardship[reasons$fight == "No"], reasons$econhardship[reasons$fight == "Yes"])
+```
+*EDUCATION*
+
+_Education_ measures the highest level of education the respondent obtained. I code it into a numeric variable where higher values mean higher levels of education. I expect that respondents with higher levels of education will be less willing to fight for their state. However, those willing to fight for their country tend to have a significantly higher level of education, according to these preliminary bivariate tests, which might point to variation across countries surveyed in the WVS6.
+
+```{r, echo=FALSE, warning=FALSE}
+t.test(reasons$education[reasons$fight == "No"], reasons$education[reasons$fight == "Yes"])
+```
+*RELIGION*
+
+_Religion_ is a nominal variable that names the respondent’s religion. Respondents of the Muslim, Buddhist, and Hindu faiths stood out for opting to fight for their country. Generally, 75% of Buddhist, as well as 76% of Hindus and Muslims responded positively to the question of fighting for their country. Atheists had the smallest proportion of pro-enlistment attitudes, but 58% (a majority) of respondents still demonstrated a willingness to fight. 
+
+```{r, echo=FALSE, warning=FALSE}
+crosstab(reasons$religion, reasons$fight, prop.r = TRUE, chisq = TRUE)
+```
+_Religimp_ measures how important religion is in the respondent’s life, on a 4-point ordinal scale from “not at all important” to “very important.” I re-code it to a numerical variable ranging 1-4 (less important to more important). I expect the effect of religious importance on the DV to vary by country. Generally speaking, however, individuals who opt to fight on average deem religion significantly more important than do their peers who would not fight.
+
+```{r, echo=FALSE, warning=FALSE}
+t.test(reasons$religimp[reasons$fight == "No"], reasons$religimp[reasons$fight == "Yes"])
+```
+*POLITICAL LEANINGS*
+
+_Polideo_ represents where individuals place themselves on the political scale, from left (1) to right (10). I keep the values of this ordinal scale as I transform it into a numeric measure. The t-test indicates that people who are willing to fight tend to have a significantly more conservative ideology than those who opt not to fight.
+
+```{r, echo=FALSE, warning=FALSE}
+t.test(reasons$polideo[reasons$fight == "No"], reasons$polideo[reasons$fight == "Yes"])
+```
+####Attitudes
+*BELIEF IN INSTITUTIONS*
+
+Trust is an index that compiles _TrustArmy_, _TrustPolice_, and _TrustCourts_ to gauge respondents’ faith in their national institutions. A principle components analysis supports the indexing of these three variables because they all load onto trustarmy, meaning trustpolice and trustcourts do not add different dimensions to the investigation.
+
+_TrustArmy_ measures how much the respondent trusts the army as an institution.
+_TrustPolice_ measures how much the respondent trusts the police as an institution.
+_TrustCourts_ measures how much the respondent trusts the courts as an institution.
+
+People who say they will fight for their country on average have much more negative views of their national institutions than do those who would not fight, who tend to have positive opinions of the army, police, and courts overall. This finding seems counterintuitive, but it might point to individuals’ desire to improve their country, which respondents may interpret as fighting for their country.
+
+```{r, echo=FALSE, warning=FALSE}
+t.test(reasons$trust[reasons$fight == "No"], reasons$trust[reasons$fight == "Yes"])
+```
+*HAPPINESS*
+
+_Happy_ measures the respondent’s happiness on a 4-point ordinal scale from “not at all happy” to “very happy.” I re-code it to a numerical variable ranging 1-4 (less happy to happier). Because of the association between altruism and happiness, and the susceptibility of altruistic individuals to patriotic appeals, I expect happier people to be more willing to fight for their country (Mann; Post). The t-test supports the hypothesis, indicating that people unwilling to fight are on average significantly less happy than those who report they would fight for their country, which could make sense if those who are happy said they would fight to defend the place that helps them be happy.
+
+```{r, echo=FALSE, warning=FALSE}
+t.test(reasons$happy[reasons$fight == "No"], reasons$happy[reasons$fight == "Yes"])
+```
+###Country-Level Indicators
+Below I examine the effect of each of the nine country-level indicator’s individual effect on fight and later produce a step-wise model that aggregates the multiple tiers of indicators.
+
+*CORRUPTION PERCEPTIONS INDEX*
+
+_CPIScore_ is the Corruption Perceptions Index scores recorded in Transparency International’s annual surveys of country-level corruption. This variable is continuous on a 0-100 scale, with 0 being the most corrupt and 100 the most transparent. Scores are by country, which is the macro-level unit of analysis for this investigation (Corruption Perceptions Index 2017, 2018). I expect countries with higher levels of corruption perceptions to have a public more willing to fight for an ideological purpose (likely a change of regime).
+
+As a singular indicator, a country’s CPI score allows this model to account for 18% of the variation. As well, it demonstrates an insignificant negative association between CPI score and willingness to fight, meaning that countries with better ratings (meaning they are more transparent) have smaller proportions of citizens that would willingly enlist. With the individual predictors, the model accounts for only 14% of the variation, but the CPI effects become magnified.
+
+```{r, echo=FALSE, warning=FALSE}
+t.test(reasons$cpiscore[reasons$fight == "No"], reasons$cpiscore[reasons$fight == "Yes"])
+```
+*CONSCRIPTION VERSUS VOLUNTARISM*
+
+_Conscription_ is an ordinal variable that notes whether a country’s armed forces are staffed through conscription, selective conscription, governmental discretion (e.g., in times of emergency), or voluntarism (ChartsBin Statistics Collector Team, 2011). I expect countries that use even handed conscription to have fewer people willing to defend it, as previous literature suggests (Lutterback). However, I would not be surprised if states with conscription laws normalized the idea of fighting as part of the national identity and therefore had a higher proportion of citizens willing to fight.
+
+The data demonstrate that there is a generally positive association between willingness to fight and conscription (on its ordinal scale), meaning that countries with no conscription tend to have fewer individuals who are willing to fight than countries with conscritpion. Perhaps people in countries with conscription interpret the question of whether they would fight with the notion in mind that they might have to fight, priming them to be more open to the idea because enlisting is more normalized.
+
+```{r, echo=FALSE, warning=FALSE}
+crosstab(reasons$conscription, reasons$fight, prop.r = TRUE, chisq = TRUE)
+```
+*EFFECTS OF COLONIALISM*
+
+_Colonized_ is a dichotomous variable to indicate whether a country was a colony (coded 1) or not (coded 0). I expect formerly colonized countries to have a public more willing to fight; but, countries that experienced colonization on average have a smaller proportion of people willing to fight to defend the state.
+
+If a country was a colony, I track how long ago it became decolonized. _YearsSinceIndep_ is a numeric variable that measures the number of years since a country gained independence. I expect more recently independent countries to have more people who are willing to fight. Indeed, the effect of colonization is less extreme the longer a country has been independent, as there is a negative association between willingness to fight and number of years since independence
+
+```{r, echo=FALSE, warning=FALSE}
+crosstab(reasons$colonized, reasons$fight, prop.r = TRUE, chisq = TRUE)
+t.test(reasons$yearssinceindep[reasons$fight == "No"], reasons$yearssinceindep[reasons$fight == "Yes"])
+```
+*WAR & PEACE*
+
+_Conflict_ is a continuous variable that measures the number of years since a country engaged its armed forces in combat since 2010 (Uppsala Conflict Data Program & Peace Research Institute Oslo, 2017). I expect countries more recently or currently engaged in conflict to have fewer people willing to fight.
+
+With very little certainty, this model posits a weak, negative association between citizens’ willingness to fight and the number of years since the last conflict, which would mean states more recently exposed to strife have citizens more willing to fight.
+
+```{r, echo=FALSE, warning=FALSE}
+t.test(reasons$conflict[reasons$fight == "No"], reasons$conflict[reasons$fight == "Yes"])
+```
+*CIVIL LIBERTIES & REGIME*
+
+_Freedom_ is a continuous variable that measures the degree of civil liberties and political rights in a state, with 0 = not free and 100 = totally free (Aghekyan, et al., 2018). I expect freer countries to be more willing to defend their state.
+
+The model demonstrates the opposite: there is a negative association between willingness to fight and how free a country is.
+
+```{r, echo=FALSE, warning=FALSE}
+t.test(reasons$freedom[reasons$fight == "No"], reasons$freedom[reasons$fight == "Yes"])
+```
+*NATIONAL ECONOMIC TRENDS*
+
+_GDPGrowth_ is a continuous variable that measures a country’s average GDP growth since 2010 (DataBank, 2018). Citizens’ willingness to fight is higher among countries with broader GDP growth.
+
+_GDPpercap_ is a continuous variable that measures a country’s average GDP per capita since 2010 (DataBank, 2018). There is a slightly negative association between one’s willingness to fight and their country’s GDP per capita.
+
+_Military_ is a continuous variable that measures the proportion of a country’s GDP spent on the military, averaged since 2010 (DataBank, 2018). I expect countries with greater relative military spending to have more people willing to fight, which the data confirm.
+
+```{r, echo=FALSE, warning=FALSE}
+t.test(reasons$gdpgrowth[reasons$fight == "No"], reasons$gdpgrowth[reasons$fight == "Yes"])
+t.test(reasons$gdppercap[reasons$fight == "No"], reasons$gdppercap[reasons$fight == "Yes"])
+t.test(reasons$military[reasons$fight == "No"], reasons$military[reasons$fight == "Yes"])
+```
+##Multi-level Logistic Regression Model
+The decreasing BIC and AIC values support the use of the model and indicate that each added variable contributes to the reliability of the increasingly complex model. The initial empty model tells us that the country-level analysis accounts for 14.5% of the variance in the model that aims to predict whether someone would fight for their country. Adding the centered demographic and attitudinal variables drops the amount of variance for which the country-level analysis accounts to 11.7%. As well, the country-level analysis sheds light on different individual-level motivators for military participation than the model above produced. Primarily, most religious categories and the variable _education_ gain significance and influence when considering that the data are clustered by country and when controlling for country-level predictors. As well, variables with the most significantly positive influence on respondent’s willingness to fight include Hinduism, Islam, and there being national conscription laws. In the opposite direction, the only comparably influential indicator is whether a country was colonized, however the effect is not significant. 
+
+```{r, echo=FALSE, warning=FALSE}
+#Empty Model
+model0 <- glmer(fight~(1|country), family=binomial, data=reasons)
+summary(model0)
+icc(model0)
+
+#Individual-Level Indicators
+model1 <- glmer(fight~age + sex + econhardship + education + religion + religimp + polideo + trust + happy + (1|country), family=binomial, data=reasons)
+summary(model1)
+icc(model1)
+margins(model1)
+
+#Individual and Country Level Indicators
+model2 <- glmer(fight ~ age + sex + econhardship + education + religion + religimp + polideo + trust + happy + cpiscore + conscription + colonized + yearssinceindep + conflict + freedom + gdpgrowth + gdppercap + military + (1|country), family=binomial, data=reasons)
+summary(model2)
+icc(model2)
+margins(model2)
+
+plot(Effect(c("age"), model2))
+plot(Effect(c("sex"), model2))
+plot(Effect(c("econhardship"), model2))
+plot(Effect(c("education"), model2))
+plot(Effect(c("religion"), model2))
+plot(Effect(c("religimp"), model2))
+plot(Effect(c("polideo"), model2))
+plot(Effect(c("trust"), model2))
+plot(Effect(c("happy"), model2))
+
+plot(Effect(c("cpiscore"), model2))
+plot(Effect(c("conscription"), model2))
+plot(Effect(c("colonized"), model2))
+plot(Effect(c("yearssinceindep"), model2))
+plot(Effect(c("conflict"), model2))
+plot(Effect(c("freedom"), model2))
+plot(Effect(c("gdpgrowth"), model2))
+plot(Effect(c("gdppercap"), model2))
+plot(Effect(c("military"), model2))
+```
+#Results
+These models demonstrate that there are surely relationships between individual-level variables and respondents’ willingness to fight for their country as well as between country-level indicators and that same outcome, with variables interacting across these different levels. Overall, the final stepwise model indicates that a baseline individual would not be willing to fight. Age, economic hardship, education, trust, GDP per capita, colonization, and more years since independence have negative effects on an otherwise baseline individual, meaning an increase in the aforementioned variables associates with a lower likelihood to be willing to fight. Conversely, religious importance, politically ideological conservativism, happiness, GDP growth, freedom, transparency, and military spending have positive effects on the dependent variable. In this aggregated model, the effects of age, political ideology, religious importance, institutional trust, happiness, years since independence, GDP per capita, conscription, and military spending become significant. Introducing country-level variables makes more predictors significantly salient.
+
+In the bivariate analyses between each independent variable and the dependent variable, the results of education, institutional trust, and freedom were surprising or counterintuitive. In the original assessments, education and fight had a positive association, with more educated individuals being more likely to opt to fight for their country, countering the (American-focused) existing literature. However, controlling for other indicators, the effect of education on one’s willingness to fight becomes negative. A baseline individual is less likely to fight for every unit increase in education level. Similarly, preliminary examinations determined that countries with more civil liberties and political rights had fewer citizens willing to fight. But, controlling for other indicators, the effect of freedom becomes positive on fight, meaning that a baseline individual is more likely to fight the freer their country is. Although including other variables as controls helped make sense of the education and freedom effects, this process did not serve the same purpose for trust. The more a respondent trusts political institutions, including the army, the less likely they are to fight for their country.
+
+
+#Conclusions
+
+##Main Takeaways
+This research demonstrates that individuals’ decisions to fight for their country hinge not only on personal experiences, thoughts, and demographics, but also on broader factors that vary across different countries. Certain indicators only become particularly significant when considered in combination with other demographic, attitudinal, and national variables, which points to the importance of a holistic analysis of military participation choices to produce the best possible predictions. Particularly, this broader, multi-level analysis demonstrates how certain factors’ influences can change not only in terms of magnitude but also in terms of direction. For instance, _freedom_ taken into consideration individually has a negative association with _fight_, meaning countries with more civil liberties and political rights have more citizens that are less willing to fight. However, these countries, when considered alongside other indicators (at the baseline), have more citizens that are more willing to fight. In other words, when considering individual and other country level factors, _freedom_ becomes much more salient in a way that baseline individuals become increasingly likely to fight if they have more civil liberties. Similar patterns occur with _education_.
+
+Moreover, this study underscores the lingering relevance of colonialism on modern political affairs. Colonization had one of the largest negative effects on the outcome variable, _fight._ Additionally, the longer it has been since a country’s decolonization process, the less likely its citizens are to be willing to fight for the state. As well, growing levels of perceived corruption negatively affect civilians’ willingness to fight. Colonially-imposed societal fractionalization created systemic issues of national instability, effects of which are still notorious today. Examining the interaction effects between _cpiscore_, _freedom_, and _trust_, in addition to much-needed information on race, ethnicity, and national power structures, controlling for colonized vs. non-colonized states could be a tremendously informative next step in contributing to this body of literature. As the data currently stands, it suggests that more recently decolonized countries that are not yet fully democratic would be more successful in raising military participation rates.
+
+Furthermore, these models give a more global insight to military participation trends and motivators. Previously existing literature largely examines demographic and national trends in the United States, but fails to examine more attitudinal and cross-national influences, limiting the scope of knowledge on the matter. As well, this investigation dispells the weight attributed to economic factors relative to enlistment practices, shifting the focus on economic indicators to a more holistic view of economics as a part of a country’s multi-faceted profile and as one of an individual’s many considerations in making potentially life-changing decisions. Surely, this research is not the be-all, end-all, but it provides a foundation for cross-national comparison and further investigations.
+
+    
+##Limitations
+This project would benefit from more extensive data on civilian attitudes toward their national army as well as more variables on the individual level surrounding personal beliefs about defending the country from specific threats. More nuanced surveying could allow for a more definitive analysis of why people would opt to fight for their country. Currently, the question that determines the dependent variable does not properly define fighting for one’s country, allowing respondents to consider fighting via unnofficial channels as well as for a variety of ideological reasons. This research would benefit from more extensive attitudinal data related to the dependent variable specifically. Questions that define fighting for one’s country more overtly to eliminate room for subjective interpretation and even questions that define fighting for different reasons would allow this investigation to be more far-reaching and more reliable. More extensive and particular surveying could also allow to interpret whether individuals would fight for specific reasons but not others, for instance in case of invasion but not in case of supporting an ally at war. Moreover, access to usable race and ethnicity variables could revamp the models used in this approach and relate the outcomes to support and enhance political and historical literature on colonialism, the fractionalization colonial systems imposed in many subjugated territories, and decolonization’s enduring effects on native populations and societies.
+
+##Future Research
+In the future, I will look into interaction effects between connected variables, such as _freedom_, _cpiscore_, and _colonialism_; _religimp_ and _religion_; and _freedom_, _happy_ and _trust._ As well, assessing countries by clusters could give rise to interesting and important information on what kind of country is more influential for citizens’ enlistment considerations. For example, looking at countries grouped by region, development level, relative military size, and regime type could bring up interesting considerations that are not currently present in my analysis.
+
+In addition, insights on race and ethnicity in relation to power structures could provide some key insights. While the literature indicates that race and ethnicity affects military participation, this dataset does not allow for accurate use of these variables. If I could investigate the role of race and ethnicity, I would take it a step further in comparing respondents’ demographic features with those of their country’s leadership, expecting those who share race or ethnic group with their national leadership to be more willing to fight for their country.
+
+Regardless of the setbacks and caveats, continuing this research is of the essence because it can help states recognize how to better appeal to their citizens in times of crisis as well as inform them about what conflicts would align with their citizen’s views and which ones are worthwhile. Optimistically, states would use this information in constructive ways that do not further marginalize disadvantaged communities and demographics. Furthermore, this project can help elucidate that attitudes toward national military institutions are not a mere function of what the individual thinks regarding defense affairs; it extends to both the individual’s demographics as much as the sociopolitical and economic arenas in which the state finds itself.
+
+
+
+#Bibliography
+Anderson, B. (2006). _Imagined communities: Reflections on the origin and spread of nationalism_. Verso Books.
+
+Aghekyan, et al. (2018). Freedom in the World 2018. _Freedom House_. Retrieved from https://freedomhouse.org/report/acknowledgements-freedom-world-2018
+
+Burdette, A., Wang, V., Elder, G., Hill, T., & Benson, J. (2009). Serving God and Country? Religious Involvement and Military Service among Young Adult Men. _Journal for the Scientific Study of Religion, 48_(4), 794-804. Retrieved from http://www.jstor.org/stable/40405670
+
+ChartsBin statistics collector team 2011, _Military Conscription Policy by Country_, ChartsBin.com, viewed 17th November, 2018, <http://chartsbin.com/view/1887>.
+
+Corruption Perceptions Index 2017. (2018). _Transparency International_. Retrieved from https://www.transparency.org/news/feature/corruption_perceptions_index_2017?utm_medium=email&utm_campaign=Thank%20you%20email&utm_content=Thank%20you%20email+&utm_source=Email%20marketing%20software&utm_term=Corruption%20Perceptions%20Index#table
+
+DataBank. (2018). World Development Indicators. _The World Bank_. Retrieved from databank.worldbank.org/data/source/world-development-indicators#
+
+Finance Center for South-South Cooperation. (2015). Global South Countries (Group of 77 and China). _Organization in Special Consultative Status with ECOSOC of the United Nations_. Retrieved from www.fc-ssc.org/en/partnership_program/south_south_countries
+
+Fitzpatrick, D. (1995). The Logic of Collective Sacrifice: Ireland and the British Army, 1914-1918. _The Historical Journal_, 38(4), 1017-1030. Retrieved from http://www.jstor.org/stable/2640099
+
+Gates, S., & Podder, S. (2015). Social Media, Recruitment, Allegiance and the Islamic State. _Perspectives on Terrorism, 9_(4), 107-116. Retrieved from http://www.jstor.org/stable/26297419
+
+Gleditsch, Nils Petter, Peter Wallensteen, Mikael Eriksson, Margareta Sollenberg, and Håvard Strand (2002) Armed Conflict 1946-2001: A New Dataset. _Journal of Peace Research 39_(5).
+
+Horowitz, M., & Levendusky, M. (2011). Drafting Support for War: Conscription and Mass Support for Warfare. _The Journal of Politics_, 73(2), 524-534. doi:10.1017/s0022381611000119
+
+Inglehart, R., C. Haerpfer, A. Moreno, C. Welzel, K. Kizilova, J. Diez-Medrano, M. Lagos, P. Norris, E. Ponarin & B. Puranen et al. (eds.). 2014. World Values Survey: Round Six - Country-Pooled Datafile Version: www.worldvaluessurvey.org/WVSDocumentationreasons.jsp. Madrid: JD Systems Institute.
+
+Kleykamp, M. (2006). College, Jobs, or the Military? Enlistment During a Time of War. _Social Science Quarterly, 87_(2), 272-290. Retrieved from http://www.jstor.org/stable/42956123
+
+Lutterbeck, D. (2011). CIVIL-MILITARY RELATIONS. In _Arab Uprisings and Armed Forces: Between Openness and Resistance_ (pp. 8-19). London: Ubiquity Press. Retrieved from http://www.jstor.org/stable/j.ctv6zdb3t.4
+
+MacLean, A., & Parsons, N. (2010). Unequal Risk: Combat Occupations in the Volunteer Military. _Sociological Perspectives, 53_(3), 347-372. doi:10.1525/sop.2010.53.3.347
+
+Mann, D. (2012). Why We Fight: Understanding Military Participation over the Life Cycle. _Journal of Human Capital, 6_(4), 279-315. doi:10.1086/668863
+
+Pettersson, Therése and Kristine Eck (2018) Organized violence, 1989-2017. _Journal of Peace Research 55_(4).
+
+Post, S. (2005). Altruism, Happiness, and Health: It’s Good to Be Good. _International Journal of Behavioral Medicine 12_(2), 66-77. Retrieved from https://greatergood.berkeley.edu/images/uploads/Post-AltruismHappinessHealth.pdf
+
+Ross, T. (1994). Raising an Army: A Positive Theory of Military Recruitment. _The Journal of Law & Economics, 37_(1), 109-131. Retrieved from http://www.jstor.org/stable/725606
+
+Rostker, B., Klerman, J., & Zander-Cotugno, M. (2014). Why Do Older Youths Join the Military? In _Recruiting Older Youths: Insights from a New Survey of Army Recruits_ (pp. 11-14). RAND Corporation. Retrieved from http://www.jstor.org/stable/10.7249/j.ctt6wq98f.11
+
+Sadan, M. (2013). Ethnic armies and ethnic conflict in Burma: Reconsidering the history of colonial militarization in the Kachin region of Burma during the Second World War. _South East Asia Research, 21_(4), 601-626. Retrieved from http://www.jstor.org/stable/23752603
+
+Stern, P. (1995). Why Do People Sacrifice for Their Nations? _Political Psychology, 16_(2), 217-235. doi:10.2307/3791830
+
+Uppsala Conflict Data Program & Peace Research Institute Oslo. (2017). Armed Conflict Dataset version 18.1. Uppsala Universitet. Retrieved from ucdp.uu.se/#/encyclopedia
+
+Weede, E. (1986). Rent Seeking, Military Participation, and Economic Performance in LDCs. _The Journal of Conflict Resolution, 30_(2), 291-314. Retrieved from http://www.jstor.org/stable/174255
+
